@@ -28,7 +28,9 @@ Bu proje HTML, CSS ve jQuery kullanarak geliştirilmiş responsive bir web sites
 
 ## Kullanılan Teknolojiler
 -HTML5
+
 -CSS3
+
 -jQuery
 
 ## Amaç 
